@@ -50,7 +50,7 @@ Tools and Technologies
 - DAX: For creating calculated columns and measures.
 - CSV Files: As the primary data source.
 
- How to Use
+How to Use
 
 1. Clone the Repository: Download or clone the repository to your local machine.
 2. Open Power BI Desktop: Open the .pbix file in Microsoft Power BI Desktop.
